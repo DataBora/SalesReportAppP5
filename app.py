@@ -21,7 +21,7 @@ st.subheader('Solution by Borivoj Grujičić')
 # In[3]:
 
 
-image = Image.open('images/bizanaliza.JPG')
+image = Image.open('bizanaliza.JPG')
 st.image(image,
         use_column_width=False)
 
